@@ -11,3 +11,4 @@ bitnami/nats:2.10.22
 jetbrains/teamcity-server:latest
 mysql:8.4.3
 redis:7.4.1
+ubuntu:22.04
